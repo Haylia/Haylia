@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Lia
+
+I work on a variety of projects using C# in Unity and .NET, MySQL, and Python
+
+Message me on discord (@yukarip3) for more info on any of my projects!
 
 <!--
 **Haylia/Haylia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
